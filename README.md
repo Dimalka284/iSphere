@@ -32,4 +32,4 @@ iSphere is a modern, high-end e-commerce platform built with Laravel, designed s
 - **Typography**: Google Fonts (Inter & Outfit)
 
 
-🚀 Live Demo : https://github.com/Dimalka284/iSphere
+🚀 Live Demo : https://isphere.fly.dev
